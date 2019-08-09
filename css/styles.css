@@ -1,8 +1,13 @@
+html {
+  height: 100%;
+}
 body {
   background-image: url("../img/welcome-bg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   background-color: gray;
+  height: 100%;
 }
 
 .panel {
@@ -13,7 +18,7 @@ body {
 }
 
 .welcome-text {
-  margin-top: 15em;
+  margin-top: 12%;
   width: 35%;
   text-align: center;
   margin-left: auto;
@@ -74,4 +79,10 @@ body {
   margin-right: auto;
   width: 90%;
   margin-bottom: 4px;
+}
+
+@media only screen and (max-device-width: 1366px) {
+  body {
+    background-attachment: scroll;
+  }
 }
