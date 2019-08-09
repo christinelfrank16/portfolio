@@ -28,6 +28,7 @@ LinkedIn: https://www.linkedin.com/in/christine-frank-b482005a
 * HTML
 * CSS
   * Bootstrap
+* JavaScript
 
 ### License
 Copyright (c) 2019 **Christine Frank**  
