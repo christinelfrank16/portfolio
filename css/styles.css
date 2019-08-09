@@ -61,9 +61,12 @@ body {
 
 .projects h1 {
   font-weight: bold;
-  text-align: center;
   font-size: 48px;
-  color: #28403F;
+  color: #1D2E2E;
+  border: 2px solid #28403F;
+  padding: 2px;
+  background-color: #50807F;
+  opacity: 0.85;
 }
 
 .card {
