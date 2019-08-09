@@ -18,7 +18,7 @@ The purpose of this webpage is to give more information about myself and my back
 * Paste the copied path into the browser
 
 ## Known Bugs
-* None known
+* Collapsed navbar will not toggle on click
 
 ## Contact Details
 Email: christine.braun13@gmail.com  
