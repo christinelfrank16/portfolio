@@ -38,7 +38,7 @@ body {
   transform: rotate(180deg);
 }
 
-.education .container p {
+.education p {
   line-height: 15px;
   text-indent: 8px;
 }
@@ -48,6 +48,16 @@ body {
   color: #C7807F;
 }
 
+.skills ol{
+  list-style: none;
+  padding: 0;
+  margin-left: 1em;
+}
+
+.other .speaker{
+  padding-right: 2em;
+  padding-left: 2em;
+}
 .card {
   margin-left: auto;
   margin-right: auto;
